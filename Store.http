@@ -1,0 +1,10 @@
+POST https://bookstore-api.test/api/v1/book
+Content-Type: application/json
+Accept: application/json
+
+{
+    "title":  "Lorem ipsum 2",
+    "author": "Stprasst",
+    "edition":  3,
+    "description": "Lorem ipsum dolor sit amet"
+}

@@ -1,0 +1,10 @@
+PATCH https://bookstore-api.test/api/v1/book/1
+Content-Type: application/json
+Accept: application/json
+
+{
+    "title":  "Ini judul buku",
+    "author": "Stprasst",
+    "edition":  1,
+    "description": "Lorem ipsum dolor sit amet"
+}
